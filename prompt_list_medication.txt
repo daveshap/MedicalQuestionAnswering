@@ -1,0 +1,9 @@
+The following is a patient chart. Determine whether or not medication(s) were prescribed:
+
+<<CONTEXT>>
+
+Was a medication prescribed? Yes or no?
+
+Yes
+
+List medication(s) prescribed:

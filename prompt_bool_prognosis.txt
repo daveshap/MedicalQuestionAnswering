@@ -1,0 +1,5 @@
+The following is a patient chart. Determine whether or not a prognosis was given:
+
+<<CONTEXT>>
+
+Was a prognosis given? Yes or no:

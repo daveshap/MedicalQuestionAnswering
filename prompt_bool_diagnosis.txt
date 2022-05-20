@@ -1,0 +1,5 @@
+The following is a patient chart. Determine whether or not a diagnosis was given:
+
+<<CONTEXT>>
+
+Was a diagnosis given? Yes or no:

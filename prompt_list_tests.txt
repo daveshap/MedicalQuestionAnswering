@@ -1,0 +1,9 @@
+The following is a patient chart. Determine whether or not follow-up medical tests were ordered:
+
+<<CONTEXT>>
+
+Were follow-up test(s) ordered? Yes or no:
+
+Yes
+
+List follow-up tests:

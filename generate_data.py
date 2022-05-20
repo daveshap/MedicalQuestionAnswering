@@ -72,7 +72,3 @@ if __name__ == '__main__':
             outfilename = 'completion_%s.json' % time()
             with open('data/%s' % outfilename, 'w') as outfile:
                 json.dump(info, outfile)
-    with open('medical.jsonl', 'w') as outfile:
-        for i in result:
-            json.dump(i, outfile)
-            outfile.write('\n')
